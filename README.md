@@ -68,3 +68,4 @@ A CPU prioriza clareza didática: **fetch** padronizado, **execute** por opcode,
 
 
 ## Vídeo do funcionamento
+[Link para pasta no Google Drive com vídeo de demonstração](https://drive.google.com/drive/u/0/folders/1Hc_6zCy6dr74yyuTUPnl49AC52gGzxf9)
